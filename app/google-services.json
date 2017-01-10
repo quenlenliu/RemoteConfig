@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "531763774974",
+    "firebase_url": "https://remoteconfig-257e0.firebaseio.com",
+    "project_id": "remoteconfig-257e0",
+    "storage_bucket": "remoteconfig-257e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531763774974:android:a9e22f6ed9a32df6",
+        "android_client_info": {
+          "package_name": "com.quenlen.remote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531763774974-ren45qtqg73jdp0ud19cvp3pkuj7t2mn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3PssjTXfRYnI5i_4X5b8gH5AgU4pvGU8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
